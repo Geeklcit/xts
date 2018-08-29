@@ -1,0 +1,1000 @@
+  434  gedit exo_2.py 
+  435  ls
+  436  cat kebe.py 
+  437  ls
+  438  cat sub.py 
+  439  cat sub.py script2.py 
+  440  cp sub.py script2.py 
+  441  gedit script2.py 
+  442  python script2.py 
+  443  ifconfig |grep addr
+  444  ifconfig |grep adr
+  445  ifconfig | grep add
+  446  ifconfig | grep adr
+  447  ifconfig | grep ad
+  448  gedit script2.py 
+  449  python script2.py 
+  450  gedit script2.py 
+  451  python script2.py 
+  452  ifconfig | grep adr
+  453  gedit script2.py 
+  454  python kebe.py 
+  455  gedit script2.py 
+  456  python script2.py 
+  457  gedit script2.py 
+  458  python script2.py 
+  459  ls
+  460  gedit test_2.py
+  461  python test_2.py 
+  462  gedit test_2.py
+  463  python test_2.py 
+  464  gedit test_2.py
+  465  python test_2.py 
+  466  gedit test_2.py
+  467  python test_2.py 
+  468  gedit test_2.py
+  469  python test_2.py 
+  470  gedit test_2.py
+  471  python test_2.py 
+  472  gedit test_2.py
+  473  python test_2.py 
+  474  gedit test_2.py
+  475  python test_2.py 
+  476  gedit test_2.py
+  477  python test_2.py 
+  478  gedit test_2.py
+  479  gedit script2.py 
+  480  python script2.py 
+  481  gedit script2.py 
+  482  python script2.py 
+  483  gedit script2.py 
+  484  python script2.py 
+  485  gedit script2.py 
+  486  python script2.py 
+  487  gedit script2.py 
+  488  python script2.py 
+  489  gedit script2.py 
+  490  python script2.py 
+  491  gedit script2.py 
+  492  python script2.py 
+  493  gedit script2.py 
+  494  python script2.py 
+  495  gedit script2.py 
+  496  python script2.py 
+  497  gedit script2.py 
+  498  python script2.py 
+  499  gedit script2.py 
+  500  python script2.py 
+  501  gedit script2.py 
+  502  ls
+  503  gedit test_2.py 
+  504  python test_2.py 
+  505  gedit test_2.py 
+  506  python test_2.py 
+  507  gedit test_2.py 
+  508  python test_2.py 
+  509  gedit test_2.py 
+  510  python test_2.py 
+  511  gedit test_2.py 
+  512  python test_2.py 
+  513  gedit test_2.py 
+  514  python test_2.py 
+  515  gedit test_2.py 
+  516  python test_2.py 
+  517  gedit test_2.py 
+  518  python test_2.py 
+  519  gedit test_2.py 
+  520  gedit script2.py 
+  521  gedit minuit.py
+  522  python minuit.py 
+  523  ssh moussa@127.0.0.1
+  524  python minuit.py 
+  525  gedit minuit.py 
+  526  ssh moussa@127.0.0.1
+  527  python minuit.py 
+  528  gedit minuit.py 
+  529  python minuit.py 
+  530  passer
+  531  python minuit.py 
+  532  ls
+  533  gedit script2.py 
+  534  python script2.py 
+  535  gedit script2.py 
+  536  python script2.py 
+  537  gedit script2.py 
+  538  python script2.py 
+  539  gedit script2.py 
+  540  python script2.py 
+  541  gedit script2.py 
+  542  python script2.py 
+  543  gedit script2.py 
+  544  python script2.py 
+  545  gedit script2.py 
+  546  python script2.py 
+  547  gedit script2.py 
+  548  python script2.py 
+  549  gedit script2.py 
+  550  python script2.py 
+  551  python3 script2.py 
+  552  python3 minuit.py 
+  553  python script2.py ls
+  554  ls
+  555  pwd
+  556  cdcd
+  557  ifconfig | grep ad | grep -v inet6
+  558  ifconfig | grep add
+  559  ifconfig | grep ad | grep -v inet6
+  560  ifconfig | grep adr | grep -v inet6
+  561  grep inet
+  562  ifconfig | grep inet
+  563  ifconfig | grep inet | grep -v inet6
+  564  ifconfig | grep inet | grep -v inet6 | grep -v Mas
+  565  ifconfig | grep inet | grep -v inet6
+  566  ifconfig | grep inet | grep -v inet6 | awk '{print $2}' | sed 's/addr://i
+  567  "
+  568  ;
+  569  ifconfig | grep inet | grep -v inet6 | grep adr
+  570  ifconfig | grep add
+  571  ifconfig | grep adr
+  572  ifconfig | grep adr | grp inet
+  573  ifconfig | grep adr | grep inet
+  574  ifconfig | grep adr: | grep inet
+  575  ifconfig 
+  576  route
+  577  net-tools
+  578  ifconfig 
+  579  ifconfig | grep adr: | grep inet
+  580  ifconfig -n
+  581  ifconfig --help
+  582  ifconfig add
+  583  ifconfig hw
+  584  ifconfig hw enp0s25
+  585  ifconfig add
+  586  ifconfig --help
+  587  ifconfig 
+  588  ifconfig | grep adr:1
+  589  ifconfig | grep adr
+  590  ifconfig | grep adr:1
+  591  ifconfig | grep add
+  592  ifconfig | grep ad
+  593  ifconfig | grep ad -v inet6
+  594  ifconfig | grep ad |grep -v inet6
+  595  cd Documents/
+  596  cd projet.py/
+  597  gedit script2.py 
+  598  python script2.py 
+  599  gedit script2.py 
+  600  python script2.py 
+  601  gedit script2.py 
+  602  python script2.py 
+  603  gedit script2.py 
+  604  python script2.py 
+  605  gedit script2.py 
+  606  python script2.py 
+  607  gedit script2.py 
+  608  python script2.py 
+  609  gedit script2.py 
+  610  python script2.py 
+  611  gedit script2.py 
+  612  python script2.py 
+  613  gedit script2.py 
+  614  python script2.py 
+  615  gedit script2.py 
+  616  python script2.py 
+  617  gedit script2.py 
+  618  python script2.py 
+  619  gedit script2.py 
+  620  python script2.py 
+  621  gedit script2.py 
+  622  python script2.py 
+  623  gedit script2.py 
+  624  python script2.py 
+  625  gedit script2.py 
+  626  python script2.py 
+  627  gedit script2.py 
+  628  python script2.py 
+  629  gedit script2.py 
+  630  python script2.py 
+  631  python script1
+  632  python script1.py 
+  633  ls
+  634  cat script1.py 
+  635  cat script2.py 
+  636  mkdir python
+  637  cp script*.py python 
+  638  cd python/
+  639  ls
+  640  cd ..
+  641  gedit test.py
+  642  python test.py
+  643  python test.py
+  644  gedit test.py
+  645  ls
+  646  cat saliw.py 
+  647  ls
+  648  cat sub.py 
+  649  i
+  650  ping 8.8.8.8
+  651  cd
+  652  sudo -
+  653  sudo -i
+  654  python3 script3.py 
+  655  gedit script3.py 
+  656  python3 script3.py 
+  657  gedit script3.py 
+  658  python3 script3.py 
+  659  python35 script3.py 
+  660  gedit script3.py 
+  661  python script3.py 
+  662  python3 script3.py 
+  663  gedit script3.py 
+  664  python3 script3.py 
+  665  python script3.py 
+  666  gedit script3.py 
+  667  python script3.py 
+  668  python3 script3.py 
+  669  gedit script3.py 
+  670  python3 script3.py 
+  671  init 6
+  672  python scapy.py 
+  673  cat -n scapy.py 
+  674  python scapy.py
+  675  python3 scapy.py
+  676  ping 8.8.8.8
+  677  ping gmail.com
+  678  ping 8.8.8.8
+  679  nano /etc/resolv.conf 
+  680  sudo nano /etc/resolv.conf 
+  681  ping gmail.com
+  682  gedit script3.py
+  683  python script3.py 
+  684  gedit script3.py
+  685  python script3.py 
+  686  gedit script3.py
+  687  python script3.py 
+  688  sudo apt install python3-pip
+  689  sudo apt-get install tcpdump graphviz imagemagick python-gnuplot cryptography
+  690  python-cryptography python-pyx
+  691  sudo apt-get install tcpdump graphviz imagemagick python-gnuplot
+  692  sudo apt-get install cryptography
+  693  python-cryptography python-pyx
+  694  sudo apt-get install python-cryptography python-pyx
+  695  scapy
+  696  python script3.py 
+  697  gedit script3.py
+  698  python script3.py 
+  699  gedit script3.py
+  700  python script3.py 
+  701  gedit test_scapy
+  702  ls
+  703  mv test_scapy test_scapy.py
+  704  ls
+  705  python test_scapy.py 
+  706  python3 test_scapy.py 
+  707  gedit test_scapy.py 
+  708  python3 test_scapy.py 
+  709  gedit test_scapy.py 
+  710  python test_scapy.py 
+  711  python3 test_scapy.py 
+  712  python script3.py 
+  713  python3 test_scapy.py 
+  714  python script3.py 
+  715  python3 script3.py 
+  716  gedit test_scapy.py 
+  717  python3 script3.py 
+  718  python test_scapy.py 
+  719  gedit test_scapy.py 
+  720  sudo python test_scapy.py 
+  721  sudo python3 test_scapy.py 
+  722  gedit test_scapy.py 
+  723  sudo python test_scapy.py 
+  724  cd /usr/local/lib/python2.7/site-packages/
+  725  ls
+  726  cd ...
+  727  cd ..
+  728  cd
+  729  pip3 install scapy
+  730  cd /usr/local/lib/python2.7/site-packages/
+  731  ls
+  732  cd
+  733  sudo pip3 install scapy
+  734  sudo pip3 --upgrade scapy
+  735  sudo pip3 install --upgrade scapy
+  736  sudo pip install --upgrade scapy
+  737  apt-get install pip
+  738  sudo apt-get install pip
+  739  apt-get install python-pip
+  740  sudo apt-get install python-pip
+  741  pip install --upgrade pip 
+  742  cd Documents/
+  743  ls
+  744  cd projet.py/
+  745  ls
+  746  python script3.py 
+  747  python test_scapy.py 
+  748  cd /home/talla/.local/lib/python2.7/site-packages
+  749  ls
+  750  cd ..
+  751  cp ..
+  752  cp /home/talla/.local/lib/python2.7/site-packages /usr/local/lib/python2.7/
+  753  cp -r /home/talla/.local/lib/python2.7/site-packages /usr/local/lib/python2.7/
+  754  sudo cp -r /home/talla/.local/lib/python2.7/site-packages /usr/local/lib/python2.7/
+  755  ls
+  756  cd /usr/local/lib/python2.7/
+  757  ls
+  758  cd site-packages/
+  759  ls
+  760  cd ..
+  761  cd /home/talla/Documents/projet.py/
+  762  ls
+  763  python script3.py 
+  764  gzip saliw.py 
+  765  zip python_projet_grp/
+  766  zip -c python_projet_grp/
+  767  cd python_projet_grp/
+  768  zip python_projet_grp.zip script1.py script2.py script3.py 
+  769  ls
+  770  zip python_projet_grp.zip script1.py script2.py script3.py membre
+  771  zip python_projet_grp.zip script1.py script2.py script3.py membre.txt
+  772  cd 
+  773  sudo -i
+  774  sudo nano /etc/resolv.conf
+  775  ping webmail/lcit-mortalla.info
+  776  ping webmail.lcit-mortalla.info
+  777  ping 8.8.8.8
+  778  sudo -i
+  779  cd Documents/
+  780  ls
+  781  cd projet.p
+  782  python script3.py 
+  783  python3 script3.py 
+  784  gedit script3.py 
+  785  ping 8.8.8.8
+  786  dhclient
+  787  sudo dhclient
+  788  ls
+  789  ifconfig 
+  790  dhclient wlp3s0
+  791  sudo dhclient wlp3s0
+  792  ifconfig 
+  793  ifdown wlp3s0 
+  794  ifconfig 
+  795  ifconfig wlp3s0 192.168.43.10
+  796  sudo ifconfig wlp3s0 192.168.43.10
+  797  ifconfig ²
+  798  ifconfig 
+  799  ping 192.168.43.23
+  800  ping 10.0.2.15
+  801  gedit linux
+  802  sudo -i
+  803  ping ovh.sn
+  804  sudo -i
+  805  cat /etc/resolv.conf
+  806  ping https://webdevacademy.com.br/tutoriais/crud-bootstrap-php-mysql-parte1/
+  807  ping https://webdevacademy.com.br
+  808  ping webdevacademy.com.br
+  809  ping 8.8.8.8
+  810  service networking restart 
+  811  ifconfig 
+  812  dhclient
+  813  sudo dhclient
+  814  ifconfig 
+  815  gedit cours
+  816  sudo init 6
+  817  ping 8.8.8.8
+  818  dhclient
+  819  sudo dhclient
+  820  sudo -i
+  821  zip -c projet 
+  822  zip -c projet *
+  823  git
+  824  git init 
+  825  git add .
+  826  git commit -m "first_comit"
+  827  git remote add origin https://github.com/Geeklcit/tapaha.git
+  828  git push -u origin master
+  829  init 0
+  830  sudo -i
+  831  sudo chmod 777 *
+  832  ls
+  833  cd twentyfifteen/
+  834  sudo chmod 777 *
+  835  cd ..
+  836  cd twentyseventeen/
+  837  sudo chmod 777 *
+  838  ls
+  839  cd ..
+  840  ls
+  841  sudo chmod 777 *
+  842  cd ..
+  843  ls
+  844  sudo chmod 777 -rf wordpress/
+  845  sudo chmod 777 -r wordpress/
+  846  ping 8.8.8.8
+  847  sudo chmod 777 *
+  848  ifconfig -a
+  849  ifconfig wlp3s0 192.168.1.65
+  850  sudo ifconfig wlp3s0 192.168.1.65
+  851  ifconfig 
+  852  nano /etc/resolv.conf 
+  853  sudo nano /etc/resolv.conf 
+  854  ping webmail.lcit-mortalla.info
+  855  sudo -i
+  856  git add .
+  857  git commit -m "fonctionalité recherche"
+  858  git push
+  859  git log 
+  860  history 
+  861  history -f >>cours_github.txt
+  862  history  >>cours_github
+  863  tail -f cours_github >> cours_git
+  864  tail -f cours_github >>cours_git
+  865  cat cours_git
+  866  done 
+  867  git add
+  868  git add .
+  869  git commit -m "fonctionalité recherche terminé"
+  870  git push 
+  871  git add .
+  872  git commit -m "fonctionalité pagination amelioré "
+  873  git push 
+  874  tar -xvzf wordpress-4.9.7-fr_FR.tar.gz 
+  875  tar -xvzf wordpress-4.9.7-fr_FR.tar.gz 
+  876  sudo rm wordpress/
+  877  sudo rmdir wordpress/
+  878  sudo rmdirc-r wordpress/
+  879  sudo rmdir -r wordpress/
+  880  sudo rm -r wordpress/
+  881  sudo chmod 777 wordpress/
+  882  man chmod 
+  883  cd wordpress/
+  884  ls -r
+  885  ls -l
+  886  cd wp-content/
+  887  ls -l
+  888  unzip crud-php-complete-master.zip 
+  889  ping 8.8.8.8
+  890  ls -l
+  891  chmod 777 *
+  892  ls -l
+  893  git add .
+  894  git commit -m "publier et photo reglé "
+  895  git push
+  896  sudo -i
+  897  cd forum/
+  898  chmod 644 ajout.php 
+  899  chmod 644 *.php
+  900  ls -l
+  901  chmod 644 *.css
+  902  chmod 644 *.html
+  903  ls -l
+  904  service apache2 restart 
+  905  ls -l
+  906  php --version
+  907  cd
+  908  sudo -i
+  909  php --version
+  910  sudo service apache2 restart 
+  911  sudo -i
+  912  cd /var/www/html/
+  913  sudo composer create-project laravel/laravel MyProject --prefer-dist
+  914  composer create-project laravel/laravel MyProject --prefer-dist
+  915  ls -l
+  916  sudo composer create-project laravel/laravel MyProject --prefer-dist
+  917  composer global require "laravel/installer"
+  918  sudo composer global require "laravel/installer"
+  919  cd /home/talla/.composer
+  920  ls
+  921  sudo composer global require "laravel/installer"
+  922  ls
+  923  chmod 644 composer.json 
+  924  sudo chmod 644 composer.json 
+  925  sudo composer global require "laravel/installer"
+  926  ls -l
+  927  sudo chmod 655 composer.json 
+  928  composer global require "laravel/installer"
+  929  sudo chmod 777 composer.json 
+  930  composer global require "laravel/installer"
+  931  cd ..
+  932  ls
+  933  sudo chmod 777 composer
+  934  ls -al
+  935  sudo chmod 777 .composer
+  936  cd composer
+  937  cd .composer
+  938  composer global require "laravel/installer"
+  939  cd /var/www/html/
+  940  ls
+  941  composer global require "laravel/installer"
+  942  curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+  943  sudo composer create-project laravel/laravel MyProject --prefer-dist
+  944  composer create-project laravel/laravel MyProject --prefer-dist
+  945  ls -al /home/talla/.composer
+  946  chmod -R 777 /home/talla/.composer/cache/
+  947  sudo chmod -R 777 /home/talla/.composer/cache/
+  948  ls -al /home/talla/.composer
+  949  composer create-project laravel/laravel MyProject --prefer-dist
+  950  sudo chown -R www-data:www-data /var/www/html/MyProject/
+  951  sudo chmod -R 755 /var/www/html/MyProject/
+  952  service apache2 start
+  953  chmod 644 index.php 
+  954  sudo chmod 644 index.php 
+  955  sudo chmod 755 index.php 
+  956  sudo chmod 777 index.php 
+  957  sudo chmod 755 index.php 
+  958  sudo chmod 777 index.php 
+  959  sudo gedit /etc/apache2/sites-available/laravel.conf
+  960  sudo a2ensite laravel.conf
+  961  sudo a2enmod rewrite
+  962  sudo service apache2 restart 
+  963  cd ..
+  964  ls
+  965  php artisan serve
+  966  php artisan serve
+  967  sudo chmod 777 *
+  968  sudo chmod -R 777 MyProject/
+  969  ping facebook.com
+  970  sudo shutdown
+  971  sudo -i
+  972  apt-get upgrade
+  973  cd /var/lib/dpkg
+  974  cd /var/lib/
+  975  ls
+  976  apt-get upadte
+  977  sudo apt-get upadate
+  978  sudo apt-get update
+  979  ls
+  980  mkdir dpkg
+  981  sudo mkdir dpkg
+  982  ls
+  983  sudo apt-get update
+  984  sudo apt-get upgrade
+  985  cd dpkg/
+  986  ls
+  987  cd lock
+  988  cat lock 
+  989  sudo cat lock 
+  990  cd
+  991  sudo init 0
+  992  sudo apt-get update
+  993  sudo apt-get updgrade
+  994  sudo apt-get upgrade
+  995  gedit talla
+  996  sudo service apache2 restart 
+  997  sudo -i
+  998  cd /var/www/html/first_crud
+  999  php artisan migrate
+ 1000  php artisan migrate -v
+ 1001  php artisan migrate 
+ 1002  php artisan migrate -v
+ 1003  cd /usr/lib/php/20170718/pdo_mysql
+ 1004  cat /usr/lib/php/20170718/pdo_mysql
+ 1005  cd /usr/lib/php/20170718/
+ 1006  ls
+ 1007  locate php.inii
+ 1008  locate php.ini
+ 1009  sudo /etc/php/7.0/apache2/php.ini
+ 1010  sudo gedit /etc/php/7.0/apache2/php.ini
+ 1011  sudo gedit /etc/php/7.2/apache2/php.ini
+ 1012  locate php.ini
+ 1013  sudo gedit /etc/php/7.2/cli/php.ini
+ 1014  service apache2 restart 
+ 1015  cd /var/www/html/
+ 1016  php artisan migrate 
+ 1017  cd first_crud/
+ 1018  php artisan migrate 
+ 1019  ping 8.8.8.8
+ 1020  sudo service apache2 start 
+ 1021  cd /etc/apache2/
+ 1022  ls
+ 1023  cd ..
+ 1024  cd php
+ 1025  ls
+ 1026  cd 7.1/
+ 1027  ls
+ 1028  cd mods-available/
+ 1029  ls
+ 1030  cd ..
+ 1031  cd
+ 1032  cd /etc/
+ 1033  locate php.ini
+ 1034  gedit /etc/php/7.0/apache2/php.ini 
+ 1035  sudo gedit /etc/php/7.0/apache2/php.ini 
+ 1036  sudo gedit /etc/php/7.1/apache2/php.ini 
+ 1037  locate php.ini
+ 1038  sudo gedit /etc/php/7.2/apache2/php.ini 
+ 1039  sudo gedit /etc/php/7.0/apache2/php.ini 
+ 1040  service apache2 restart 
+ 1041  locate laravel
+ 1042  locate php.ini
+ 1043  gedit /etc/php/7.2/cli/php.ini 
+ 1044  sudo gedit /etc/php/7.2/cli/php.ini 
+ 1045  locate php.ini
+ 1046  sudo gedit /etc/php/7.0/cli/php.ini 
+ 1047  locate php.ini
+ 1048  sudo gedit /etc/php/7.2/fpm/php.ini 
+ 1049  cd /var/www
+ 1050  cd html/
+ 1051  ls
+ 1052  cd MyProject/
+ 1053  ls
+ 1054  php artisan create-project --prefer-dist laravel/laravel first_crud
+ 1055  sudo php artisan create-project --prefer-dist laravel/laravel first_crud
+ 1056  php artisan 
+ 1057  composer create-project --prefer-dist laravel/laravel first_crud
+ 1058  cd ..
+ 1059  sudo composer create-project --prefer-dist laravel/laravel first_crud
+ 1060  composer create-project --prefer-dist laravel/laravel first_crud
+ 1061  ls
+ 1062  cd first_crud/
+ 1063  php artisan migrate
+ 1064  php artisan make:controller PassportController --resource
+ 1065  php artisan route:list
+ 1066  php artisan serve
+ 1067  sudo service apache2 restart 
+ 1068  php artisan migrate
+ 1069  clear
+ 1070  php artisan migrate
+ 1071  php --version
+ 1072  locate php.ini
+ 1073  cd /etc/apache
+ 1074  cd /etc/apache2
+ 1075  ls
+ 1076  cd ..
+ 1077  cd php
+ 1078  ls
+ 1079  cd 7.1
+ 1080  ls
+ 1081  cd mods-available/
+ 1082  ls
+ 1083  cd ..
+ 1084  ls
+ 1085  cd 5.6
+ 1086  ls
+ 1087  cd mods-available/
+ 1088  ls
+ 1089  cd ..
+ 1090  ls
+ 1091  cd ..
+ 1092  ls
+ 1093  cd 7.0
+ 1094  ls
+ 1095  cd cli/
+ 1096  ls
+ 1097  cat php.ini 
+ 1098  cd /var/www/html/
+ 1099  cd first_crud/
+ 1100  ls
+ 1101  cd config/
+ 1102  ls
+ 1103  cd ..
+ 1104  php artisan migrate
+ 1105  php artisan migrate -v
+ 1106  php artisan migrate
+ 1107  sudo apt-get install php7.2-mysql
+ 1108  sudo touch /var/lib/dpkg/status
+ 1109  sudo apt-get install php7.2-mysql
+ 1110  sudo touch /var/lib/dpkg/updates
+ 1111  sudo apt-get install php7.2-mysql
+ 1112  apt-get update
+ 1113  sudo apt-get update
+ 1114  sudo apt-get upgrade 
+ 1115  sudo apt-get install php7.2-mysql
+ 1116  cd /var/lib/dpkg/
+ 1117  ls
+ 1118  cat updates 
+ 1119  cat status 
+ 1120  sudo lock 
+ 1121  sudo cat lock 
+ 1122  sudo apt-get install php7.2-mysql
+ 1123  sudo mkdir /var/lib/dpkg/updates
+ 1124  sudo rm /var/lib/dpkg/updates
+ 1125  sudo mkdir /var/lib/dpkg/updates
+ 1126  sudo apt-get install php7.2-mysql
+ 1127  sudo touch /var/lib/dpkg/status
+ 1128  cd
+ 1129  sudo mkdir -p /var/lib/dpkg/{alternatives,info,parts,triggers,updates}
+ 1130  sudo cp /var/backups/dpkg.status.0 /var/lib/dpkg/status
+ 1131  sudo apt-get download dpkg
+ 1132  apt-get download dpkg
+ 1133  sudo dpkg -i dpkg*.deb
+ 1134  apt-get download base-files
+ 1135  sudo dpkg -i base-files*.deb
+ 1136  dpkg --audit
+ 1137  sudo dpkg --audit
+ 1138  sudo apt-get update
+ 1139  sudo apt-get check
+ 1140  sudo apt-get install php7.2-mysql
+ 1141  wget https://launchpad.net/ubuntu/+archive/primary/+files/dpkg_1.16.1.2ubuntu7.2.tar.bz2
+ 1142  tar -xzvf dpkg_1.16.1.2ubuntu7.tar.bz2
+ 1143  tar -xz dpkg_1.16.1.2ubuntu7.tar.bz2
+ 1144  tar -xzf dpkg_1.16.1.2ubuntu7.tar.bz2
+ 1145  tar -xzf dpkg_1.16.1.2ubuntu7.2.tar.bz2 
+ 1146  sudo dpkg -i dpkg_1.18.4ubuntu1.4_amd64.deb
+ 1147  sudo cp /var/backups/dpkg.status.0  /var/lib/dpkg/
+ 1148  sudo mv /var/backups/dpkg.status.0  /var/backups/status
+ 1149  sudo mkdir /var/lib/dpkg/updates
+ 1150  sudo apt-get install php7.2-mysql
+ 1151  sudo apt-get install php7.1-mysql
+ 1152  ls -l /var/lib/dpkg/
+ 1153  sudo dpkg -i
+ 1154  gedit laravel_crud
+ 1155  sudo init 6
+ 1156  zip -c 7041.pdf ziper
+ 1157  zip -c ziper 7041.pdf
+ 1158  cd ..
+ 1159  composer create-project --prefer-dist laravel/laravel crud_etudiant 
+ 1160  sudo -i
+ 1161  ls
+ 1162  dpkg -i dpkg_1.18.4ubuntu1.4_amd64.deb 
+ 1163  sudo dpkg -i dpkg_1.18.4ubuntu1.4_amd64.deb 
+ 1164  sudo dpkg -i dpkg_1.18.4ubuntu1.4_amd64.deb 
+ 1165  sudo apt-get upadate
+ 1166  sudo apt-get update
+ 1167  sudo apt-get install php7.2-mysql
+ 1168  sudo dpkg --configure php7.2-mysql
+ 1169  sudo dpkg --configure -a 
+ 1170  sudo apt install -f 
+ 1171  sudo dpkg -P --force-all php7.1-mysql
+ 1172  sudo dpkg --configure -a 
+ 1173  sudo dpkg -P --force-all php7.1-common
+ 1174  sudo dpkg --configure -a 
+ 1175  sudo apt-get install php7.2-mysql
+ 1176  cd /var/lib/dpkg/
+ 1177  ls
+ 1178  cd info/
+ 1179  ls
+ 1180  gedit php7.2-mysql.postrm 
+ 1181  sudo gedit php7.2-mysql.postrm 
+ 1182  sudo apt-get install php7.2-mysql
+ 1183  sudo apt-get update 
+ 1184  sudo apt-get updgrade
+ 1185  sudo apt-get upgrade
+ 1186  sudo apt-get install php7.2-mysql
+ 1187  cd ..
+ 1188  ls
+ 1189  rm dpkg/
+ 1190  sudo rmdir dpkg/
+ 1191  sudo rmdir -r dpkg/
+ 1192  sudo rm -r dpkg/
+ 1193  cd /home/talla/Bureau/
+ 1194  ls
+ 1195  cp dpkg /var/lib/
+ 1196  sudo cp -r dpkg /var/lib/
+ 1197  sudo apt-get update
+ 1198  sudo apt-get upgrade
+ 1199  sudo apt-get install php7.2-mysql
+ 1200  calc
+ 1201  cal
+ 1202  ping 8.8.8.8
+ 1203  sudo service apache2 restart 
+ 1204  php artisan serve
+ 1205  php artisan migrate
+ 1206  php artisan serve
+ 1207  php artisan --serve
+ 1208  php artisan serve
+ 1209  php artisan serv
+ 1210  php artisan serve
+ 1211  cd ..
+ 1212  cd /var/www/html/
+ 1213  composer create-project --prefer-dist laravel/laravel crud_bakeli
+ 1214  php artisan migrate
+ 1215  php artisan make:model etudiant -m
+ 1216  php artisan migrate
+ 1217  php artisan make:controller EtudiantController --resource
+ 1218  php artisan serve
+ 1219  cd /var/www/html/first_crud/
+ 1220  ls
+ 1221  php artisan migrate
+ 1222  php artisan serve
+ 1223  php artisan migrate
+ 1224  php artisan route:list
+ 1225  php artisan key:generate
+ 1226  php artisan config:clear
+ 1227  php artisan config:cache
+ 1228  ls
+ 1229  cd app
+ 1230  ls
+ 1231  cd ..
+ 1232  cd resources/
+ 1233  ls
+ 1234  cd views/
+ 1235  ls
+ 1236  php artisan migrate
+ 1237  cd..
+ 1238  cd ..
+ 1239  php artisan migrate
+ 1240  php artisan migrate -v
+ 1241  php artisan migrate
+ 1242  php artisan serve
+ 1243  php artisan make:model Passport -m
+ 1244  php artisan migrate
+ 1245  php artisan serve
+ 1246  ifconfig 
+ 1247  ifconfig wlp3s0 192.168.1.244
+ 1248  sudo ifconfig wlp3s0 192.168.1.244
+ 1249  ifconfig 
+ 1250  ping 8.8.8.8
+ 1251  ifconfig 
+ 1252  ping 8.8.8.8
+ 1253  rm crud_etudiant/
+ 1254  rmdir crud_etudiant/
+ 1255  rm -rf crud_etudiant/
+ 1256  cd crud_bakeli/
+ 1257  php artisan route:list
+ 1258  sudo service apache2 restart 
+ 1259  cal
+ 1260  ls
+ 1261  clear
+ 1262  php artisan serve
+ 1263  php artisan 
+ 1264  php artisan key:generate
+ 1265  php artisan serve
+ 1266  cd ..
+ 1267  cd first_crud/
+ 1268  ls
+ 1269  php artisan serve
+ 1270  php artisan migrate
+ 1271  php artisan migrate:refresh
+ 1272  php artisan serve
+ 1273  cd ..
+ 1274  composer create-project --prefer-dist laravel/laravel xts
+ 1275  php artisan migrate
+ 1276  cd ..
+ 1277  composer create-project --prefer-dist laravel/laravel xaragne
+ 1278  cd xaragne/
+ 1279  sudo service apache2 restart 
+ 1280  ping 8.8.8.8
+ 1281  service apache2 stop 
+ 1282  ping 8.8.8.8
+ 1283  sudo gedit autorun.inf 
+ 1284  ls -l
+ 1285  chmod 745 autorun.inf 
+ 1286  ls -l
+ 1287  chmod 745 autorun.inf 
+ 1288  sudo chmod 745 autorun.inf 
+ 1289  sudo -i
+ 1290  php artisan --serve
+ 1291  php artisan serve
+ 1292  php artisan make:auth
+ 1293  php artisan migrate
+ 1294  php artisan serve
+ 1295  php artisan make:migration create_services_table --create=services
+ 1296  php artisan make:controller ServicesController --resource --model=Services
+ 1297  php artisan migrate
+ 1298  php artisan serve
+ 1299  tar -x fintech-140.rar 
+ 1300  tar -xf fintech-140.rar 
+ 1301  unrar -x fintech-140.rar 
+ 1302  sudo apt install unrar
+ 1303  unrar -x fintech-140.rar 
+ 1304  sudo apt install unrar-free
+ 1305  unrar x fintech-140.rar 
+ 1306  ping 8.8.8.8
+ 1307  zip -c fintech-140
+ 1308  zip -r fintech-140.zip fintech-140
+ 1309  ls
+ 1310  ping 8.8.8.8
+ 1311  cal
+ 1312  ftp.cluster026.hosting.ovh.net
+ 1313  ftp ftp.cluster026.hosting.ovh.net
+ 1314  cd Téléchargements/
+ 1315  cd FileZilla3/
+ 1316  ls
+ 1317  cd bin/
+ 1318  ls
+ 1319  filezila
+ 1320  filezilla 
+ 1321  ls
+ 1322  ls -l
+ 1323  cd filezilla
+ 1324  ls
+ 1325  filezilla
+ 1326  sudo apt install filezilla
+ 1327  filezilla @
+ 1328  ping 8.8.8.8
+ 1329  filezilla
+ 1330  FileZilla
+ 1331  sudo apt install filezilla
+ 1332  filezilla @
+ 1333  sudo apt-get update
+ 1334  vo
+ 1335  col
+ 1336  sudo filezilla
+ 1337  filezilla
+ 1338  apt install filezilla
+ 1339  rm -rf /var/lib/dpkg/lock
+ 1340  sudo rm -rf /var/lib/dpkg/lock
+ 1341  ls
+ 1342  sudo apt install filezilla
+ 1343  sudo apt install filezilla -a
+ 1344  sudo dpkg --configure filezilla
+ 1345  apt-get autoremove filezilla
+ 1346  sudo rm -rf /var/lib/dpkg/lock
+ 1347  apt-get autoremove filezilla
+ 1348  sudo rm -rf /var/lib/dpkg/lock
+ 1349  sudo apt-get autoremove filezilla
+ 1350  sudo apt-get install filezilla
+ 1351  filezilla
+ 1352  sudo filezilla
+ 1353  sudo filezilla @
+ 1354  sudo filezilla 
+ 1355  sudo filezilla @
+ 1356  clear
+ 1357  cd
+ 1358  sudo -i
+ 1359  ftp ftp.cluster026.hosting.ovh.net
+ 1360  ftp  ftp.cluster026.hosting.ovh.net
+ 1361  sudo add-apt-repository ppa:n-muench/programs-ppa
+ 1362  sudo apt-get update
+ 1363  sudo apt-get install filezilla
+ 1364  sudo filezilla
+ 1365  sudo filezilla @
+ 1366  filezilla @
+ 1367  filezilla 
+ 1368  filezilla tlla@cc.in
+ 1369  ls
+ 1370  cd ..
+ 1371  ls
+ 1372  cd bin/
+ 1373  ls -l
+ 1374  sudo fillezilla
+ 1375  fillezilla
+ 1376  chmod 777 filezilla
+ 1377  filezilla
+ 1378  ls -l
+ 1379  cd filezilla
+ 1380  ./filezilla 
+ 1381  sudo ./filezilla 
+ 1382  clear
+ 1383  ls
+ 1384  ./fzsftp
+ 1385  ./filezilla @
+ 1386  cd ..
+ 1387  ls
+ 1388  cd bin/
+ 1389  ls
+ 1390  cd <;;
+ 1391  zip 
+ 1392  gzip
+ 1393  history 
+ 1394  zip -r themeforest-11820291-digital-agency-seo-marketing-wordpress-theme.zip themeforest-11820291-digital-agency-seo-marketing-wordpress-theme/
+ 1395  unzip creactiva-business.zip 
+ 1396  ls
+ 1397  unrar -x digitalagency_211.rar 
+ 1398  ping 8.8.8.8
+ 1399  ping 8.8.8.8
+ 1400  sudo service apache2 restart 
+ 1401  php artisan serve
+ 1402  ping 8.8.8.8
+ 1403  ifconfig 
+ 1404  php artisan serve
+ 1405  sudo service apache2 restart 
+ 1406  sudo service apache2 status
+ 1407  ping 8.8.8.8
+ 1408  sudo init 6
+ 1409  sudo service apache2 restart 
+ 1410  FileZilla
+ 1411  sudo FileZilla
+ 1412  php artisan serve
+ 1413  php make:migrate
+ 1414  php make:migration
+ 1415  php migration
+ 1416  php artisan make:migration
+ 1417  php artisan serve
+ 1418  gedit talla
+ 1419  ping 8.8.8.8
+ 1420  sudo service apache2 restart 
+ 1421  cd /var/www/html/
+ 1422  cd crud_bakeli/
+ 1423  php artisan serve
+ 1424  gedit sauv.html
+ 1425  sudo init 6
+ 1426  php artisan serve
+ 1427* 
+ 1428  php artisan serve
+ 1429  php artisan make:controller TeamController --resource --model=Team
+ 1430  php artisan serve
+ 1431  php artisan migrate
+ 1432  php artisan serve
+ 1433  history >>volk.lar
