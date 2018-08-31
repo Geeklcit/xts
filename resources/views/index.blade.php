@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"> 
     <title>xts compagnies </title>
     <!--link rel="stylesheet" href="{{asset('css/app.css.Lm')}}"!-->  
-<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"--> 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
 <link rel="stylesheet" href="css/style.css">
         
 
@@ -18,11 +18,11 @@
 
 
   
-<link rel="stylesheet" href="css/bootstrap.min.css">
+<!--link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/fontawesome.min.css">
 <script src="js/fontawesome.min.js"></script>
 <script src="js/jquery-3.3.1.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script-->
   </head>
   <body>
         <div class="container-fluid" style="border-raduis:10px; background-color:black ;">
@@ -240,18 +240,18 @@
                         <h1 >Team</h1>
                         <div class="underliner"></div>
                         <p>&nbsp;</p>
-                        <p style="color:black; text-align:center;"> Lorem Ipsum est simplement un faux texte de l'industrie de l'impression et de la composition.
-                            Lorem Ipsum a été le texte factice standard de l'industrie depuis les années 1500, quand une   s.</p>
+                        <p style="color:black; text-align:center;"> la meilleur équipe à votre services
+                            Des passionnés de l’informatique toujours à la recherche de la meiileur solution</p>
                         <div class="container">
                           <div class="row">
                              <div class="col-md-4">
                               <div class="item">
                                 <figure class="card card-team">
                                   <div class="profile-img">
-                                    <img src="./image/avatar1.png" alt="">
+                                    <img src="./image/avatar1.png" style="display: block; margin-left: auto;margin-right: auto;">
                                   </div>
                                   <figcation>
-                                    <p class="text-md-center">
+                                    <p style="text-align:center;" class="text-md-center">
                                       <strong>Mortalla GUEYE</strong><br>
                                       <i>Chief Executive Officer</i><br>
                                     </p>
@@ -262,10 +262,10 @@
                               <div class="item">
                                 <figure class="card card-team">
                                   <div class="profile-img">
-                                    <img src="./image/avatar3.png" alt="">
+                                    <img src="./image/avatar3.png" style="display: block; margin-left: auto;margin-right: auto;">
                                   </div>
                                   <figcation>
-                                    <p class="text-md-center">
+                                    <p style="text-align:center;" class="text-md-center">
                                       <strong>Babacar Loum</strong><br>
                                       <i>Chief Technology Officer</i><br>
                                     </p>
@@ -276,10 +276,10 @@
                                     <div class="col-md-4">
                                 <figure class="card card-team">
                                   <div class="profile-img">
-                                    <img src="./image/avatar3.png" alt="">
+                                    <img src="./image/avatar3.png" style="display: block; margin-left: auto;margin-right: auto;">
                                   </div>
                                   <figcation>
-                                    <p class="text-md-center">
+                                    <p style="text-align:center;" class="text-md-center">
                                       <strong>Modou kebe</strong><br>
                                       <i>Virtualization, Cloud Engineer & Technical Lead</i><br>
                                     </p>
@@ -290,10 +290,10 @@
                                     <div class="col-md-4">
                                 <figure class="card card-team">
                                   <div class="profile-img">
-                                    <img src="./image/avatar1.png" alt="">
+                                    <img src="./image/avatar1.png" style="display: block; margin-left: auto;margin-right: auto;">
                                   </div>
                                   <figcation>
-                                    <p class="text-md-center">
+                                    <p style="text-align:center;" class="text-md-center">
                                       <strong>Fanta soumaré</strong><br>
                                       <i>	Sales, Communication & Marketing Manager</i><br>
                                     </p>
@@ -304,10 +304,10 @@
                                     <div class="col-md-4">
                                 <figure class="card card-team">
                                   <div class="profile-img">
-                                    <img src="./image/avatar1.png" alt="">
+                                    <img src="./image/avatar1.png" style="display: block; margin-left: auto;margin-right: auto;">
                                   </div>
                                   <figcation>
-                                    <p class="text-md-center">
+                                    <p style="text-align:center;" class="text-md-center">
                                       <strong>Aimée DIOP</strong><br>
                                       <i>	Sales, Communication & Marketing Manager</i><br>
                                     </p>
@@ -318,10 +318,10 @@
                                 <div class="col-md-4">
                             <figure class="card card-team">
                               <div class="profile-img">
-                                <img src="./image/avatar1.png" alt="">
+                                <img src="./image/avatar1.png" style="display: block; margin-left: auto;margin-right: auto;" >
                               </div>
                               <figcation>
-                                <p class="text-md-center">
+                                <p style="text-align:center;" class="text-md-center">
                                   <strong>Bamba coly </strong><br>
                                   <i>	Sales, Communication & Marketing Manager</i><br>
                                 </p>
@@ -330,18 +330,43 @@
                         </div></div>
                           </div>
                         </div>
+                    <section>
+                     <div class="container about">
+                       <div class="row">
+                         <h1 style="text-align:center;" > à propos de XTS</h1>
+                           <h3 style="text-align:center;"> Toujours à votre services</h3>
+                      <p style="text-align:justify center; ">
+                        <img src="image/log.png" style="width:150; height:100; float:left"/>
+
+
+Créé en Juin 2018, Xaragne Tech Services (XTS) est une entreprise de type société de services en ingénierie informatique (SSII) qui offre un certain nombre de solutions aux professionnels et particuliers.
+
+L’exigence de qualité qui est une valeur a XTS constitue le fondement de notre démarche .Ainsi, XTS vous accompagne dans cette quête perpétuelle de qualité en traçant avec vous les lignes du futur.
+
+XTS a pour vocation de cultiver l’excellence et de fournir les meilleurs prestation possibles dans la réalisation des études et la supervision de l’exécution des projets qui lui sont confiés  elle s’engage pour une bonne maîtrise de la qualité des prestations qu’elle propose à ses clients, à assurer le respect scrupuleux des délais d’exécutions des travaux.
+
+                      </p>
+                      </div>
+                    </div>
+                    </section>
+                  
                        
                       </section>
+                     
                 <footer class="footer" >
                         <div class="footer-top">
                             <div class="container-fluid" >
+                                <div>
+                                    <p>Retrouvez nous </p>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.1394830553722!2d-17.480013542928045!3d14.704506160178923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x81ce1cfbba874ddf!2sInstitut+Edge!5e0!3m2!1sen!2ssn!4v1535560543706" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                    </div>
                                <div class="container">
                                     <div class="col-md-4 col-lg-4 offset-lg-1">
                                         <h3>Contact</h3>
-                                        <p><i class="fa fa-map-marker"></i> senegal 10, 10136 Bene tally</p>
-                                        <p><i class="fa fa-phone"></i> Phone: (00221) 33 827 99 52</p>
-                                        <p><i class="fa fa-envelope"></i> Email: <a href="mailto:mortallageek@gmail.com">contact@xts.com</a></p>
-                                        <p><i class="fa fa-skype"></i> Skype: you_online</p>
+                                        <p style="color:white; font-size:20px;"><i class="fa fa-map-marker"></i> senegal 10, 10136 Bene tally</p>
+                                        <p style="color:white; font-size:20px;"><i class="fa fa-phone"></i> Phone: (00221) 33 827 99 52</p>
+                                        <p style="color:white; font-size:20px;"><i class="fa fa-envelope"></i> Email: <a href="mailto:mortallageek@gmail.com">contact@xts.com</a></p>
+                                        <p style="color:white; font-size:20px;"><i class="fa fa-skype"></i> Skype: you_online</p>
                                     </div>
 
                                     <div class="col-md-4 col-lg-4 offset-lg-1" style="color:white">
@@ -355,22 +380,23 @@
 
                                     <div class="col-md-4 col-lg-4 offset-lg-1">
                                         <h3>Nous contacter</h3>
-                                        <a style="color:white" href="#"><i class="fa fa-facebook"></i> Facebook</a><br> 
-                                        <a style="color:white" href="#"><i class="fa fa-twitter"></i> twitter</a> <br>
-                                        <a style="color:white" href="#"><i class="fa fa-google-plus"></i> Google plus</a> <br>
-                                        <a style="color:white" href="#"><i class="fa fa-instagram"></i> instagram</a> <br>
-                                        <a style="color:white" href="#"><i class="fa fa-pinterest"></i> Pintrest</a><br>
+                                        <a style="color:white; font-size:20px;" href="#"><i class="fa fa-facebook"></i> Facebook</a><br> 
+                                        <a style="color:white; font-size:20px;" href="#"><i class="fa fa-twitter"></i> twitter</a> <br>
+                                        <a style="color:white; font-size:20px;" href="#"><i class="fa fa-google-plus"></i> Google plus</a> <br>
+                                        <a style="color:white; font-size:20px;" href="#"><i class="fa fa-instagram"></i> instagram</a> <br>
+                                        <a style="color:white; font-size:20px;" href="#"><i class="fa fa-pinterest"></i> Pintrest</a><br>
                       
                                     </div>
                                 </div>
                             </div>
+                            
+    
                             <div class="row" style="text-align:center">
                               <p><i class="fa fa-copyright"></i>2018 bakeliste</p>
                             </div>
                         </div>
                         
-                    </footer>
-
+                      </footer>
 
         <!-- Javascript -->
        
