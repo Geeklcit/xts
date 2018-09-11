@@ -23,8 +23,9 @@ class TeamController extends Controller
     public function envoi_membre()
     {
         //
+        //dd('mortalla');
         $team=Team::All();
-        return view('index',compact('team'));
+        return view('about',compact('team'));
         
     }
 

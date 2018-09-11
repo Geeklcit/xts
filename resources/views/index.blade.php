@@ -3,15 +3,17 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>xts compagnies </title>
     <!--link rel="stylesheet" href="{{asset('css/app.css.Lm')}}"!-->  
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
-<link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
+  <link rel="stylesheet" href="css/style.css">
         
 
       
@@ -25,25 +27,27 @@
 <script src="js/bootstrap.min.js"></script-->
   </head>
   <body>
-        <div class="container-fluid" style="border-raduis:10px; background-color:black ;">
-            <nav class="navbar navbar-inverse" >
+        <div class="container-fluid" style="border-raduis:10px; background-color:black;">
+            <nav class="navbar navbar-expand-lg  navbar-inverse navbar-fixed-top" >
             <div class="container-fluid">
                   <div class="navbar-header">
                     <a class="navbar-brand" href="#">Call +221 77 226 28 90</a>
                 </div>
                   <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Follow us</a></li>
-                    <li><a href="#"><i class="fa fa-facebook"></i></a>  </li>
-                    <li> <a href="#"><i class="fa fa-twitter"></i></a> </li>
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a> </li>
-                    <li><a href="#"><i class="fa fa-instagram"></i></a> </li>
-                    <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Follow us</a></li>
+                    <li class="nav-item"><a class="nav-link"  href="#"><i class="fa fa-facebook"></i></a>  </li>
+                    <li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-twitter"></i></a> </li>
+                    <li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-google-plus"></i></a> </li>
+                    <li class="nav-item"><a class="nav-link"  href="#"><i class="fa fa-instagram"></i></a> </li>
+                    <li class="nav-item"><a class="nav-link" href="#"><i class="fa fa-pinterest"></i></a></li>
                   </ul>
                   <ul class="nav navbar-nav navbar-right">
-                    <li><a href="http://127.0.0.1:8000/register"><span class="glyphicon glyphicon-user"></span> Register</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ route('login') }}"><span class="glyphicon glyphicon-user"></span> Register</a></li>
                     <li><span class="glyphicon glyphicon-log-in"></span>
-                        <li><a href="http://127.0.0.1:8000/login"><span class="glyphicon glyphicon-user"></span>Login</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ route('register') }}"><span class="glyphicon glyphicon-user"></span>Login</a></li>
                         <li><span class="glyphicon glyphicon-log-in"></span>
+
+                         
 
                         
                     
@@ -124,27 +128,44 @@
               </nav> </div>
 
         <div class="container-fluid" style="background-color:white;">
-                <nav class="navbar navbar-default">
-                <div class="container-fluid">
-                    <div class="navbar-header">
-                        <img class="navbar-brand" src="./image/log.png"/>
-                        <button type="button" class="navbar-toggle" data-toggle="collapse"data-target=".navbar-collapse">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        </button>
-                    </div>
-                    <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav navbar-right" >                      
-                      <li class="li"><a href="#">SOLUTION</a></li>
-                      <li class="li" ><a href="#">INDUSTRIES</a></li>
-                      <li class="li" ><a href="#">A PROPOS</a></li>
-                      <li class="li" ><a href="#">SUPPORT</a></li> 
-                      <li class="li" ><a href="#">CONTACT</a></li> 
-                    </ul>
-                <div></div>
-                </nav>
+          <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+            <a class="navbar-brand" href="#"><img src="image/log.png" height="70"/> </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ route('boutique') }}">notre boutique</a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="nav-link" href="#">solutions</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="{{ route('solution') }}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Services
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="{{ route('solution') }}">téléphonie</a>
+                    <a class="dropdown-item" href="{{ route('solution') }}">Réseaux et system</a>
+                    <a class="dropdown-item" href="{{ route('solution') }}">Développement</a>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ route('about') }}">A propos</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ route('contact') }}">Contact</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
         </div>
+      
 
 
 
@@ -160,25 +181,25 @@
     
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-            <div class="item active">
+            <div class="carousel-item active">
             <img class="img" src="{{URL :: asset ('./image/image4.jpg')}}" alt="first image">
-            <div class="carousel-caption">
+            <div class="carousel-caption d-none d-md-block">
                 <h1>Xaragne Tech service</h1>
                 <p>Des solutions adaptées à vos besoin,vous satisfaire est notre principal soucis.</p>
             </div>
             </div>
     
-            <div class="item">
-            <img class="img" src="image/image4.jpg" alt="Chicago" >
-            <div class="carousel-caption">
+            <div class="carousel-item">
+            <img class="img" src="image/fond.jpg" alt="Chicago" >
+            <div class="carousel-caption d-none d-md-block">
                 <h1>Xaragne Tech service</h1>
                 <p>Des solutions adaptées à vos besoin,vous satisfaire est notre principal soucis.</p>
             </div>
             </div>
     
-            <div class="item">
+            <div class="carousel-item">
             <img class="img" src="image/image4.jpg" alt="New York" >
-                <div class="carousel-caption">
+                <div class="carousel-caption d-none d-md-block">
                 <h1>Xaragne Tech service</h1>
                 <p>Des solutions adaptées à vos besoin,vous satisfaire est notre principal soucis.</p>
             </div>
@@ -186,57 +207,47 @@
         </div>
     
         <!-- Left and right controls -->
-        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-            <span class="glyphicon glyphicon-chevron-left"></span>
-            <span class="sr-only">Precedent</span>
+        <a class="left carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Precedent</span>
         </a>
-        <a class="right carousel-control" href="#myCarousel" data-slide="next">
-            <span class="glyphicon glyphicon-chevron-right"></span>
-            <span class="sr-only">Next</span>
-            </a>
-        </div>
+        <a class="right carousel-control-next" href="#myCarousel" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+    </div>
+  </div>
 
-           <div> <h1>Nos services<h1/></div>
+           <div style="margin-top:30px;"> <h1>Nos services<h1/></div>
     
                 <section class="section" id="solution" style="text-align:center">
                 <div class="container contenu" >
-                    <div class="row" style="margin-top:10px; padding:15px;">
+                    <div class="row form-group" style="margin-top:10px;" >
                         @foreach($services as $services)
-                        <div class="col-md-4">
-                            <div class="row">
-                                <div class="col-md-10 logo">
-                                    <img src="{{asset('images/'. $services['file'])}}" style="width:250px; height:100px;"/>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-10 titre">
-                                    <h4>{{ $services->titre }}</h4>                   
-                                </div>
-                
-                            </div>
-                
-                            <div class="row">
-                                <div class="col-md-10 text">
-                                    <p style="text-align:center">
-                                        {{ $services->descriptions }}  
-                                    </p>
-                                </div>
+                        <div class="col-4">
+                          
+                            <div class="card" style="width:16rem; margin-bottom:10;">
+                              <img class="card-img-top" src="{{asset('images/'. $services['file'])}}" alt="Card image cap" style="width:250px; height:100px; display: block; margin-left: auto;margin-right: auto; ">
+                              <div class="card-body">
+                                <h5 class="card-title">{{ $services->titre }}</h5>
+                                <p class="card-text"> {{ $services->descriptions }} </p>
+                                <a href="#" class="btn btn-primary">lire</a>
+                              </div>
                             </div>
                 
                             </div>
                             @endforeach
                 
                         </div>
-                        <div class="row" style="text-align:center">
-                            <a href="#">
-                                <button class="btn btn-primary"> Voir plus</button>
-
+                        <div class="row text-center" >
+                            <a href="#" class="text-center" style="text-align:center; display: block; margin-left: auto;margin-right: auto;">
+                                <button class="btn btn-primary text-center "> Toutes les services</button>
                             </a>
                           </div>
                 </section>
 
                 
-                <section class="container" id="team">
+                <section class="container" id="team" style="margin-top:30px;">
                         <h1 >Team</h1>
                         <div class="underliner"></div>
                         <p>&nbsp;</p>
@@ -244,50 +255,52 @@
                             Des passionnés de l’informatique toujours à la recherche de la meiileur solution</p>
                         <div class="container">
                           <div class="row">
-                             <div class="col-md-4">
+                             <div class="col-4">
                               <div class="item">
                                 <figure class="card card-team">
                                   <div class="profile-img">
                                     <img src="./image/avatar1.png" style="display: block; margin-left: auto;margin-right: auto;">
                                   </div>
-                                  <figcation>
+                                  <figcaption>
                                     <p style="text-align:center;" class="text-md-center">
                                       <strong>Mortalla GUEYE</strong><br>
-                                      <i>Chief Executive Officer</i><br>
+                                      <i>Chief Executive Officer & ING Réseaux</i><br>
                                     </p>
-                                  </figcation>
+                                  </figcaption>
                                 </figure>
                               </div></div>
-                              <div class="col-md-4">
+                              <div class="col-4">
                               <div class="item">
                                 <figure class="card card-team">
                                   <div class="profile-img">
                                     <img src="./image/avatar3.png" style="display: block; margin-left: auto;margin-right: auto;">
                                   </div>
-                                  <figcation>
+                                  <figcaption>
                                     <p style="text-align:center;" class="text-md-center">
                                       <strong>Babacar Loum</strong><br>
-                                      <i>Chief Technology Officer</i><br>
+                                      <i>Chief Technology Officer & Developpeur fullstack</i><br>
                                     </p>
-                                  </figcation>
+                                  </figcaption>
                                 </figure>
                               </div></div>
+                              <div class="col-4">
                               <div class="item">
-                                    <div class="col-md-4">
+                                    
                                 <figure class="card card-team">
                                   <div class="profile-img">
                                     <img src="./image/avatar3.png" style="display: block; margin-left: auto;margin-right: auto;">
                                   </div>
-                                  <figcation>
+                                  <figcaption>
                                     <p style="text-align:center;" class="text-md-center">
                                       <strong>Modou kebe</strong><br>
                                       <i>Virtualization, Cloud Engineer & Technical Lead</i><br>
                                     </p>
-                                  </figcation>
+                                  </figcaption>
                                 </figure>
                               </div></div>
+                              <div class="col-4">
                               <div class="item">
-                                    <div class="col-md-4">
+                  
                                 <figure class="card card-team">
                                   <div class="profile-img">
                                     <img src="./image/avatar1.png" style="display: block; margin-left: auto;margin-right: auto;">
@@ -300,8 +313,9 @@
                                   </figcation>
                                 </figure>
                             </div></div>
+                            <div class="col-4">
                             <div class="item">
-                                    <div class="col-md-4">
+                                    
                                 <figure class="card card-team">
                                   <div class="profile-img">
                                     <img src="./image/avatar1.png" style="display: block; margin-left: auto;margin-right: auto;">
@@ -314,8 +328,9 @@
                                   </figcation>
                                 </figure>
                             </div></div>
+                            <div class="col-4">
                             <div class="item">
-                                <div class="col-md-4">
+                                
                             <figure class="card card-team">
                               <div class="profile-img">
                                 <img src="./image/avatar1.png" style="display: block; margin-left: auto;margin-right: auto;" >
@@ -330,38 +345,17 @@
                         </div></div>
                           </div>
                         </div>
-                    <section>
-                     <div class="container about">
-                       <div class="row">
-                         <h1 style="text-align:center;" > à propos de XTS</h1>
-                           <h3 style="text-align:center;"> Toujours à votre services</h3>
-                      <p style="text-align:justify center; ">
-                        <img src="image/log.png" style="width:150; height:100; float:left"/>
-
-
-Créé en Juin 2018, Xaragne Tech Services (XTS) est une entreprise de type société de services en ingénierie informatique (SSII) qui offre un certain nombre de solutions aux professionnels et particuliers.
-
-L’exigence de qualité qui est une valeur a XTS constitue le fondement de notre démarche .Ainsi, XTS vous accompagne dans cette quête perpétuelle de qualité en traçant avec vous les lignes du futur.
-
-XTS a pour vocation de cultiver l’excellence et de fournir les meilleurs prestation possibles dans la réalisation des études et la supervision de l’exécution des projets qui lui sont confiés  elle s’engage pour une bonne maîtrise de la qualité des prestations qu’elle propose à ses clients, à assurer le respect scrupuleux des délais d’exécutions des travaux.
-
-                      </p>
-                      </div>
-                    </div>
-                    </section>
-                  
+                   
                        
                       </section>
                      
                 <footer class="footer" >
                         <div class="footer-top">
                             <div class="container-fluid" >
-                                <div>
-                                    <p>Retrouvez nous </p>
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.1394830553722!2d-17.480013542928045!3d14.704506160178923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x81ce1cfbba874ddf!2sInstitut+Edge!5e0!3m2!1sen!2ssn!4v1535560543706" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-                                    </div>
+                               
                                <div class="container">
-                                    <div class="col-md-4 col-lg-4 offset-lg-1">
+                                 <div class="row">
+                                    <div class="col-4 ">
                                         <h3>Contact</h3>
                                         <p style="color:white; font-size:20px;"><i class="fa fa-map-marker"></i> senegal 10, 10136 Bene tally</p>
                                         <p style="color:white; font-size:20px;"><i class="fa fa-phone"></i> Phone: (00221) 33 827 99 52</p>
@@ -369,7 +363,7 @@ XTS a pour vocation de cultiver l’excellence et de fournir les meilleurs prest
                                         <p style="color:white; font-size:20px;"><i class="fa fa-skype"></i> Skype: you_online</p>
                                     </div>
 
-                                    <div class="col-md-4 col-lg-4 offset-lg-1" style="color:white">
+                                    <div class="col-4 style="color:white" >
                                         <h3>XTS</h3>
                                         
                                                 <p><a style="color:white" class="scroll-link1" href="#">SOLUTION</a></p>
@@ -378,7 +372,7 @@ XTS a pour vocation de cultiver l’excellence et de fournir les meilleurs prest
                                                 <p><a style="color:white" class="scroll-link1" href="#">CONTACT </a></p>
                                     </div>
 
-                                    <div class="col-md-4 col-lg-4 offset-lg-1">
+                                    <div class="col-4">
                                         <h3>Nous contacter</h3>
                                         <a style="color:white; font-size:20px;" href="#"><i class="fa fa-facebook"></i> Facebook</a><br> 
                                         <a style="color:white; font-size:20px;" href="#"><i class="fa fa-twitter"></i> twitter</a> <br>
@@ -389,10 +383,13 @@ XTS a pour vocation de cultiver l’excellence et de fournir les meilleurs prest
                                     </div>
                                 </div>
                             </div>
-                            
+                            <div>
+                              <p>Retrouvez nous </p>
+                              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.1394830553722!2d-17.480013542928045!3d14.704506160178923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x81ce1cfbba874ddf!2sInstitut+Edge!5e0!3m2!1sen!2ssn!4v1535560543706" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                              </div>
     
-                            <div class="row" style="text-align:center">
-                              <p><i class="fa fa-copyright"></i>2018 bakeliste</p>
+                            <div class="row text-md-center" >
+                              <p style="display:block; margin-left:auto;margin-right:auto">copyright: <i class="fa fa-copyright"></i>2018 bakeliste</p>
                             </div>
                         </div>
                         

@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Services;
 use App\Xaragne;
+
 use Illuminate\Http\Request;
 
 class ServicesController extends Controller
@@ -25,6 +26,8 @@ class ServicesController extends Controller
         //
         $services=Services::All();
         return view('index',compact('services'));
+
+        
         
     }
 
